@@ -1,6 +1,5 @@
 # 🚀 Bare-Metal HTTP/1.1 Web Server in C
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.://img.shields.io](https://img.shields.io/badge/platform-Windows-lightgreyiant web server built from scratch using pure C and Windows Winsock2 API - no external libraries required!** 🔥
 
 ## 🌟 What Makes This Special?
 
@@ -67,7 +66,7 @@ You'll need one of these compilers on Windows:
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/SuperServer.git
+git clone https://github.com/lakshyarohila/SuperServer.git
 cd baremetal-server
 ```
 
